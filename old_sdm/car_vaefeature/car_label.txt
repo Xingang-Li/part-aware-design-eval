@@ -1,0 +1,11 @@
+body.obj
+
+left_front_wheel.obj
+left_back_wheel.obj
+
+right_front_wheel.obj
+right_back_wheel.obj
+
+left_mirror.obj
+right_mirror.obj
+
