@@ -1,11 +1,11 @@
 # Create a virtual environment 
-virtualenv --no-site-packages -p python3 ~/sdmnet
+# virtualenv --no-site-packages -p python3 ~/sdmnet
 
 # Activate the virtual environment
-source ~/sdmnet/bin/activate
+# source ~/sdmnet/bin/activate
 
 # Update pip
-pip install -U pip
+# pip install -U pip
 
 # download pymesh binary
 mkdir package
